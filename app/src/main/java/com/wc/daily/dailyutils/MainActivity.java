@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //复制内容到粘贴板
         CopyUtils.copy(MainActivity.this, "复制到粘贴板的内容");
         //获取粘贴板内容
