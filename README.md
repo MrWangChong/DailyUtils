@@ -22,7 +22,7 @@ allprojects {
     
 ```
 
-使用法放
+使用方法
 
 ```java
 
