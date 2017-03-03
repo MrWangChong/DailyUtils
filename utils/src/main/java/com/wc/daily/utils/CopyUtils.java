@@ -6,6 +6,7 @@ import android.content.Context;
 import android.util.Log;
 
 /**
+ * 复制工具类
  * Created by Administrator on 2016/5/20.
  */
 public class CopyUtils {
